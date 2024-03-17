@@ -89,10 +89,13 @@ async def greet_group(_, member: ChatMemberUpdated):
 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 {member.chat.title}
 ➖➖➖➖➖➖➖➖➖➖➖
 ✰ 𝐍ᴀᴍᴇ♦️ꭙ ➠ {user.mention}
+➖➖➖➖➖➖➖➖➖➖➖➖
 🍒 𝗜𝗗 ➠ {user.id}
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 🍷 𝐔ʀ 𝐈d 💖 ➠ @{user.username}
-👤 𝐁σт ᴏᴡɴᴇʀ ➠ @BRANDEDKING82
-➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+👤 𝐁σт ᴏᴡɴᴇʀ ➠ @L2R_KING0
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/MentalMusicRobot?startgroup=true")]])
         )
